@@ -37,9 +37,9 @@ This small project is meant for our data structure class. and the main objective
 ### Who?
 **Authors**
 * Munira Alduraibi (me)
-* Shahad Abukozzanah 
-* Arob Alqurashi
-* Areej Bawazir 
+* [Shahad Abukozzanah](https://www.linkedin.com/in/shahad-mohammed-2817b0217)
+* [Arob Alqurashi](https://www.linkedin.com/in/arob-alqurashi-8158ab242)
+* [Areej Bawazir](https://www.linkedin.com/in/AreejAbw123)
 
 # What I learned?
 * How to choose the right data structure depending on the problem. 
