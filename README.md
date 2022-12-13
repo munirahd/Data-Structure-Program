@@ -45,6 +45,3 @@ This small project is meant for our data structure class. and the main objective
 * How to choose the right data structure depending on the problem. 
 * To deal with and manipulate data using data structures.
 * How to use recursion.
-
-
-
