@@ -1,6 +1,6 @@
 # Data Structure Applications 🏗
 ## What?
-This is a practical implementation for the data structure course in the form of a small project. In which we applied data structures and recursion to do cryptography, and to find if there is a duplicate a word in a sentence using circular linked lists, and also to reverse words using recursion and also linked lists.
+In this program we applied data structures and recursion to do cryptography, and to find if there is a duplicate a word in a sentence using circular linked lists, and also to reverse words using recursion and also linked lists.
 
 ### The flow if the program as follows :
 1. When the program runs it will show the user a number of options as follow :
@@ -27,7 +27,7 @@ For example,
 5. When the user chooses the **EXIT** option in the sub menu it will return him/her to the main menu, and then if he/she chooses the **EXIT** option in the main menu it will terminate the program.
 
 ## Why?
-This small project is meant for our data structure class. and the main objectives are :
+This porgram is a practical implementation for the data structure course in the form of a small project. and the main objectives are :
 * Getting the practical knowledge of arrays and several types of linked lists.
 * Learning the real-life application of linked lists, arrays and recursion.
 
