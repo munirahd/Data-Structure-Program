@@ -1,35 +1,33 @@
-# Data Structure Applications 🏗
-## What?
-In this program we applied data structures and recursion to do cryptography, and to find if there is a duplicate a word in a sentence using circular linked lists, and also to reverse words using recursion and also linked lists.
+# Data Structures and Cryptography Project 🏗️
 
-### The flow if the program as follows :
-1. When the program runs it will show the user a number of options as follow :
+## Overview
+This project integrates data structures and recursion techniques to create a versatile application. It offers functionalities in cryptography, duplicate word detection in sentences using circular linked lists, and word reversal in sentences employing both recursion and linked lists.
+
+### Program Workflow:
+1. **Initial Options:** Upon launching, the program presents several options to the user:
     1. Cryptography
-    2. Duplicate word
-    3. Recursion
+    2. Duplicate Word Detection
+    3. Word Reversal Using Recursion
     4. Exit
 
-2. When the user chooses the **Cryptography** option, he/she can choose from the following :
-    1. encoding → here the user will be asked to enter a string and the program will cipher it.
-    2. decoding  → here the user will be asked to enter a string and the program will decipher it.
-    3. EXIT 
- * *NOTE : it will be ciphered and deciphered depending on the number entered by the user to move the string according to the alphabet.*
+2. **Cryptography Features:** Selecting the 'Cryptography' option leads to further choices:
+    1. **Encoding:** User inputs a string for encryption. The encryption is based on an alphabet-shift algorithm, determined by a user-provided numeric key.
+    2. **Decoding:** User inputs a string for decryption, reversing the encryption process.
+    3. **Exit to Main Menu**
+    *Note: Encryption and decryption shift characters based on the alphabet, according to the user's numerical input.*
 
-3. When the user chooses the **Duplicate word** option, she/he will enter a sentence and the program will check if there is a duplicate word in the same entered sentence using circular linked list.
-For example, 
-    * If the user entered "alex eats apple dose that means that she likes apple?" the program will output the following "There is a duplicate word". 
-    * Otherwise if no duplicate words existed it will output "There is no duplicate word".
+3. **Duplicate Word Detection:** This feature analyzes a user-entered sentence to identify duplicate words using a circular linked list. For example:
+    * Input: "alex eats apple does that mean she likes apple?"
+    * Output: "Duplicate word detected" or "No duplicate words" based on the analysis.
 
-4. When the user chooses the **Recursion** option, the user will be asked to enter a sentence that will be reversed using singly linked list and recursion.
-For example, 
-    * If the user entered "alex eats apple" the program will output the following "apple eats alex".
-    
-5. When the user chooses the **EXIT** option in the sub menu it will return him/her to the main menu, and then if he/she chooses the **EXIT** option in the main menu it will terminate the program.
+4. **Word Reversal Using Recursion:** This option allows users to reverse the order of words in a sentence. The process utilizes recursion and a singly linked list. For instance:
+    * Input: "alex eats apple"
+    * Output: "apple eats alex"
 
-## Why?
-This porgram is a practical implementation for the data structure course in the form of a small project. and the main objectives are :
-* Getting the practical knowledge of arrays and several types of linked lists.
-* Learning the real-life application of linked lists, arrays and recursion.
+5. **Navigation and Exit:** Selecting 'Exit' in any submenu returns the user to the main menu. Choosing 'Exit' from the main menu terminates the program.
+
+## Purpose
+The primary aim of this program is to provide a hands-on experience in applying data structures, specifically arrays and various forms of linked lists, in practical scenarios. It serves as a small-scale project illustrating the real-world applications of these data structures, along with recursion, enhancing the understanding and skills gained in a data structure course.
 
 ## When? 
 17/11/2021 until 8/12/2021
