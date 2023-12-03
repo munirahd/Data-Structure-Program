@@ -30,7 +30,7 @@ This project integrates data structures and recursion techniques to create a sim
 The primary aim of this program is to provide a hands-on experience in applying data structures, specifically arrays and various forms of linked lists, in practical scenarios. It serves as a small-scale project illustrating the real-world applications of these data structures, along with recursion, enhancing the understanding and skills gained in a data structure course.
 
 ## Project Timeline 
-**Duration:** November 17, 2021, to December 8, 2021
+**Duration:** Nov 2021 - Dec 2021
 
 ## Contributors
 **Team Members:**
