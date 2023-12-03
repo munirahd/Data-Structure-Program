@@ -1,7 +1,7 @@
 # Data Structures and Cryptography Project 🏗️
 
 ## Overview
-This project integrates data structures and recursion techniques to create a application. It offers functionalities in cryptography, duplicate word detection in sentences using circular linked lists, and word reversal in sentences employing both recursion and linked lists.
+This project integrates data structures and recursion techniques to create a simple application. It offers basic functionalities in cryptography, duplicate word detection in sentences using circular linked lists, and word reversal in sentences employing both recursion and linked lists.
 
 ### Program Workflow:
 1. **Initial Options:** Upon launching, the program presents several options to the user:
