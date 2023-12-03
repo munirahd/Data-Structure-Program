@@ -29,17 +29,19 @@ This project integrates data structures and recursion techniques to create a ver
 ## Purpose
 The primary aim of this program is to provide a hands-on experience in applying data structures, specifically arrays and various forms of linked lists, in practical scenarios. It serves as a small-scale project illustrating the real-world applications of these data structures, along with recursion, enhancing the understanding and skills gained in a data structure course.
 
-## When? 
-17/11/2021 until 8/12/2021
+## Project Timeline 
+**Duration:** November 17, 2021, to December 8, 2021
 
-## Who?
-**Authors**
-* Munira Alduraibi (me)
-* [Shahad Abukozzanah](https://www.linkedin.com/in/shahad-mohammed-2817b0217)
-* [Arob Alqurashi](https://www.linkedin.com/in/arob-alqurashi-8158ab242)
-* [Areej Bawazir](https://www.linkedin.com/in/AreejAbw123)
+## Contributors
+**Team Members:**
+* Munira Alduraibi (Project Lead)
+* [Shahad Abukozzanah](https://www.linkedin.com/in/shahad-mohammed-2817b0217) - Co-contributor
+* [Arob Alqurashi](https://www.linkedin.com/in/arob-alqurashi-8158ab242) - Co-contributor
+* [Areej Bawazir](https://www.linkedin.com/in/AreejAbw123) - Co-contributor
 
-# What I learned?
-* How to choose the right data structure depending on the problem. 
-* To deal with and manipulate data using data structures.
-* How to use recursion.
+## Key Learnings
+Throughout the course of this project, I gained several valuable insights and skills, primarily in the areas of data structures and programming logic:
+
+1. **Data Structure Selection:** Understanding how to evaluate and choose the most suitable data structure for various problem scenarios.
+2. **Data Manipulation:** Enhanced proficiency in handling and manipulating data using different data structures, which is critical in programming and software development.
+3. **Recursion Mastery:** Developed a deeper comprehension of recursion, its practical applications, and its effectiveness in solving specific types of problems, particularly in the context of data manipulation and algorithm design.
