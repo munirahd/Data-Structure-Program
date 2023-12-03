@@ -34,7 +34,7 @@ The primary aim of this program is to provide a hands-on experience in applying 
 
 ## Contributors
 **Team Members:**
-* Munira Alduraibi (Project Lead)
+* Munira Alduraibi (Me)
 * [Shahad Abukozzanah](https://www.linkedin.com/in/shahad-mohammed-2817b0217) - Co-contributor
 * [Arob Alqurashi](https://www.linkedin.com/in/arob-alqurashi-8158ab242) - Co-contributor
 * [Areej Bawazir](https://www.linkedin.com/in/AreejAbw123) - Co-contributor
